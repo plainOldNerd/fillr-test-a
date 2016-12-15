@@ -49,8 +49,6 @@ Write a function that loops through the metadata hash and returns the metadata v
 
 Your function should be authored in the match.js #match function, and pass the Regular Expression#match test.
 
-## Submission
-
-Please create a new public repo named ‘fillr-test-a’ in your github account and commit your solutions to the repo. Notify Fillr that your repo is available either at stu@fillr.com or via github.
-
-Please show your working! The more commits in progress the better (this allows us to verify that the work submitted it yours and also shows us your thought processes)
+**Note from me, the applicant**
+Given the test performed, in order to pass the test only the label of the fields, and not the metadata, and only the credit card expiry fields (not name, card type, or any other such relevant information) were needed.
+As such, there's not much demonstration of regex usage in the credit card controls part of this submission. Regex usage is better demonstrated in the extraction part.
