@@ -50,5 +50,6 @@ Write a function that loops through the metadata hash and returns the metadata v
 Your function should be authored in the match.js #match function, and pass the Regular Expression#match test.
 
 **Note from me, the applicant**
+
 Given the test performed, in order to pass the test only the label of the fields, and not the metadata, and only the credit card expiry fields (not name, card type, or any other such relevant information) were needed.
 As such, there's not much demonstration of regex usage in the credit card controls part of this submission. Regex usage is better demonstrated in the extraction part.
