@@ -8,9 +8,21 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies" : {
-    "mocha" : "*",
-    "chai" : "*",
-    "jsdom" : "*"
-  }
+  "dependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "jsdom": "*"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plainOldNerd/fillr-test-a.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/plainOldNerd/fillr-test-a/issues"
+  },
+  "homepage": "https://github.com/plainOldNerd/fillr-test-a#readme"
 }
